@@ -1,6 +1,6 @@
 # Tubular
 
-Tubular is made to help you download music and video from Youtube.
+Tubular is made to download music and videos from Youtube.
 
 ## How to use
 The file `tubular.sh` is double-clickable and will launch this interface.  
